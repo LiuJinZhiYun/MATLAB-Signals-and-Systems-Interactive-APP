@@ -122,10 +122,4 @@ Signals-Systems-APP/
 - Redesign GUI with a dark theme and card-based layout
 - Add direct export to Word/PDF experiment reports
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 If you find this project useful for your course or research, please give it a ⭐ on GitHub! For any issues or bug reports, please open an issue with your MATLAB version and full error message.

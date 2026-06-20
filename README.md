@@ -96,9 +96,6 @@ Signals-Systems-APP/
 ├── launch_signal_system_app.m    # Main entry point
 ├── SignalSystemDSP.m             # Core signal processing engine
 ├── run_assignment_demo.m         # Automatic demo script
-├── +signalsys/                   # Internal utility package
-├── assets/                       # Sample signals and resources
-├── outputs/                      # Generated results (auto-created)
 └── README.md
 ```
 
